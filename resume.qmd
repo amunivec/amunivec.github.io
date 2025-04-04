@@ -1,89 +1,76 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alex Munive's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Alex Munive
+Economics Student | Data & Research Specialist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:alexmunviec@gmail.com">alexmunviec@gmail.com</a>
+| <a href="https://linkedin.com/in/alexm-munive">linkedin.com/in/alexm-munive</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Student Support Data & Research Specialist at BYU-Idaho
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data analysis, research design, institutional assessment, and student success strategies
 
+### Research Interests
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Higher education analytics, human capital development, economic behavior, and public policy impact
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Dec 2025`  
+__Brigham Young University – Idaho__, Rexburg, ID  
+Bachelor of Science in Economics  
+- Minor: Data Science  
+- GPA: 3.7  
+- Relevant Courses: Social Media Marketing, Professional Presentations, Business Writing, Human Resources, Microeconomics, Statistics, Macroeconomics  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Dec 2023`  
+__Brigham Young University – Idaho__, Rexburg, ID  
+Human Resources Management Certificate  
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Jan 2023 – Present`  
+__Student Support, BYU-Idaho__, Rexburg, ID  
+_Data & Research Specialist_  
+- Implemented statistical analyses to develop support programs and data-driven strategies that reduced the percentage of struggling students  
+- Created Power BI visual reports to communicate complex statistical information to stakeholders  
 
-- Fellow
+`Apr 2023 – Dec 2023`  
+__Institutional Research & Assessment, BYU-Idaho__, Rexburg, ID  
+_Research & Assessment Specialist_  
+- Led focus groups for executive offices, gathering insights into student experiences  
+- Presented research findings via reports, presentations, and meetings  
+- Conducted evaluations of programs and initiatives based on trends and outcomes  
 
+`Jan 2022 – Jul 2023`  
+__Career and Academic Advising, BYU-Idaho__, Rexburg, ID  
+_Peer Advisor Team Lead_  
+- Organized and led weekly training meetings for 15+ advisors  
+- Worked with leadership and department chairs on strategic and curriculum decisions  
+- Supported students facing academic challenges by developing recovery pathways  
 
+`Feb 2021 – Aug 2021`  
+__Scotiabank__, Mexico City, MX  
+_Customer Care Advisor_  
+- Assisted 250+ account holders with financial guidance  
+- Resolved escalated customer concerns with empathy and professionalism  
+- Adhered to privacy and security policies while handling sensitive data  
 
-## Awards
+## Volunteer Experience
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`Sep 2017 – Jan 2019`  
+__Mexican Red Cross__, Mexico City, Mexico  
+_Emergency Medical Technician - B_  
+- Responded to emergency calls and administered immediate medical care  
+- Managed dispatch operations and resource allocation  
+- Delivered life-saving interventions under pressure
